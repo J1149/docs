@@ -1,0 +1,22 @@
+site_name: J1149 Docs
+nav:
+  - Home: 'index.md'
+  - 'PAI Pass':
+      - 'Introduction': 'paipass/intro.md'
+      - 'Getting Started': 'paipass/getting-started.md'
+      - 'Attributes': 'paipass/attributes.md'
+      - 'Identity Verification': 'paipass/identity-verification.md'
+      - 'OAuth2': 'paipass/oauth2.md'
+      - 'PAI Messages': 'paipass/pai-messages.md'
+      - 'PDP2': 'paipass/pdp2.md'
+      - 'SSO': 'paipass/sso.md'
+      - 'Yggdrasil': 'paipass/yggdrasil.md'
+      - 'Known Issues': 'paipass/known-issues.md'
+      - 'Deployment': 'paipass/deployment.md'
+
+  - 'Catena Art':
+      - 'Introduction': 'catena-art/intro.md'
+      - 'Getting Started': 'catena-art/getting-started.md'
+      - 'Posting Art': 'catena-art/posting-art.md'
+      - 'Known Issues': 'catena-art/known-issues.md'
+      - 'Deployment': 'catena-art/deployment.md'
